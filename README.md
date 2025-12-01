@@ -41,4 +41,4 @@ I specialize in building scalable enterprise systems, service management platfor
 ## 📫 Contact
 
 📧 Email: mridulcs2012@gmail.com  
-🌐 Portfolio: https://YOUR-USERNAME.github.io
+🌐 Portfolio: https://mridulcs2012.github.io
